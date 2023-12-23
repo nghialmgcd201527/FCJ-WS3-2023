@@ -14,6 +14,18 @@
                 href="/vi/1-introduce/"
                 />
   </url><url>
+    <loc>/vi/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/"
+                />
+  </url><url>
     <loc>/vi/3-cache/3.1-urired/</loc>
     <xhtml:link
                 rel="alternate"
@@ -36,18 +48,6 @@
                 rel="alternate"
                 hreflang="vi"
                 href="/vi/1-introduce/1.1-usecase/"
-                />
-  </url><url>
-    <loc>/vi/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/"
                 />
   </url><url>
     <loc>/vi/1-introduce/1.2-edge/</loc>
